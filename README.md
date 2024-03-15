@@ -1,4 +1,4 @@
-# easy-web3
+# easy-web3-tools
 Web3 Tools is a collection of utilities for interacting with Web3 and Ethereum smart contracts.
 
 
@@ -13,11 +13,11 @@ Web3 Tools is a collection of utilities for interacting with Web3 and Ethereum s
 You can install Simple Web3 Project via npm:
 
 ```bash
-npm install easy-web3
+npm install easy-web3-tools
 ```
 ## Usage
 
-const Web3Tools = require('easy-web3');
+const Web3Tools = require('easy-web3-tools');
 
 // Initialize Web3Tools with your Ethereum provider URL
 const web3Tools = new Web3Tools('https://mainnet.infura.io/v3/your-infura-project-id');
